@@ -132,8 +132,8 @@ postTime: {
 
 ``` js
 nav: [
-  { text: 'Home', link: '/' },
-  { text: 'Posts', link: '/posts/' },
+  { text: '首页', link: '/' },
+  { text: '博客', link: '/blogs/' },
   { text: 'Tags', link: '/tag/' },
   { text: 'Categories', link: '/category/' },
   { text: 'About', link: '/about/' }
